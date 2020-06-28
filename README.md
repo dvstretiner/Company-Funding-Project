@@ -26,7 +26,7 @@ Equipped with the 2014 Crunchbase data, I posed the following questions relating
 ##### 4. How to Interact with this project
 Please see the included Jupyter notebook with the project performed step by step.
 
-##### 5.Results
+##### 5. Results
 1. Which markets are funded the most when looking at a typical company within that market?
 *Looked at the distribution of median funding by industry, finding out that technology companies are in the top 10, but far from the #1 spot, which is taken by Science & Engineering & Electronics.*
 
